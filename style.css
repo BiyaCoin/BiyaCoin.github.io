@@ -125,12 +125,6 @@ section + section {
   border-radius: var(--radius);
 }
 
-/* Story */
-.fr {
-  color: var(--cream-dim);
-  font-style: italic;
-}
-
 /* Contract address box */
 .ca-box {
   background: var(--green-deep);
