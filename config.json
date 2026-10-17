@@ -3,8 +3,8 @@
   "ticker": "BIYA",
   "description": "The coin of the eternal holder. An ancient tortoise who has held since before the internet and never sells.",
   "socials": {
-    "website": "",
-    "x": "",
+    "website": "https://biyacoin.github.io",
+    "x": "https://x.com/BiyaC0in",
     "telegram": ""
   },
   "mintAddress": "",
