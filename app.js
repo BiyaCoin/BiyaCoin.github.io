@@ -49,6 +49,7 @@
     any = showLink("website", safeUrl(socials.website)) || any;
     any = showLink("x", safeUrl(socials.x)) || any;
     any = showLink("telegram", safeUrl(socials.telegram)) || any;
+    any = showLink("discord", safeUrl(socials.discord)) || any;
     if (mint) any = showLink("pumpfun", "https://pump.fun/coin/" + mint) || any;
     var linksSection = document.getElementById("links");
     if (linksSection) linksSection.hidden = !any;
